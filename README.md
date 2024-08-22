@@ -1,1 +1,1 @@
-# [skikozou.me][https://skikozou.me/]
+# [skikozou.me](https://skikozou.me/)
