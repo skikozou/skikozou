@@ -1,1 +1,1 @@
-# skikozou.me
+# (skikozou.me)[skikozou.me]
