@@ -1,2 +1,2 @@
 # [main.skikozou.me](https://main.skikozou.me/)
-![sizu icon](sizu.png)
+<img src="sizu.png" alt="sizu icon" width="50">
