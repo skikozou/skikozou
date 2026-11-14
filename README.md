@@ -1,4 +1,4 @@
-# [main.skikozou.me](https://main.skikozou.me/)
+# [skikozou.me](https://skikozou.me/)
 ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/skikozou)
 
 Except for source code, my messages (including comments on GitHub)
